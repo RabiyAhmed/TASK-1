@@ -1,0 +1,5 @@
+Task-1 Notes
+------------
+- Created my first GitHub repo
+- Learned how to add files directly on GitHub
+- Added index.html and notes.txt for practice
